@@ -1,2 +1,2 @@
 # IBM-DS
-Coursera IBM data science course
+Coursera IBM data science Professional Certificate
